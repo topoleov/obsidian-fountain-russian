@@ -1,4 +1,4 @@
-# obsidian-fountain
+# obsidian-fountain-russian
 ![GitHub release)](https://img.shields.io/github/v/release/Darakah/obsidian-fountain)
 ![GitHub all releases](https://img.shields.io/github/downloads/Darakah/obsidian-fountain/total)
 
